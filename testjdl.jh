@@ -51,12 +51,6 @@ entity Job {
 	maxSalary Long
 }
 
-entity Test {
-	test1 String,
-	test2 Long,
-	test3 Long
-}
-
 
 entity JobHistory {
 	startDate Instant,
